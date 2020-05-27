@@ -1,6 +1,5 @@
 # camunda engine unit test template
 
-My awesome change
 
 This git repository contains a simple example of how to write a unit test for camunda bpm. You can use it for reporting bugs or asking questions in the forums.
 
